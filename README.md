@@ -1,0 +1,1 @@
+I went full geek and formatted my resume with [Markdown](https://en.wikipedia.org/wiki/Markdown).  It was authored using [Visual Studio Code](https://code.visualstudio.com/).
