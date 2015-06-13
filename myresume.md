@@ -2,9 +2,7 @@
 Personal information is excluded and will be furnished upon request.
 
 ## Summary
-I am passionate full stack developer with 15+ years of experience developing solutions using a combination of Microsoft technologies and other software stacks. 
-
----
+I am passionate full stack developer with 16+ years of experience developing web, mobile and desktop solutions using a combination of Microsoft technologies and other software stacks. 
 
 ## Certifications
 
@@ -30,34 +28,28 @@ Microsoft Visual C# .NET and the Microsoft .NET Framework
 * Designing and Implementing Solutions with Microsoft BizTalk 
 * Sun Certified Programmer for the Java 2 Platform
 
----
-
 ## Technologies
 
 ### Languages/Platforms
-C#, .Net 4.5+, JavaScript, Swift, VB, C/C++, Java
+C#, .Net 4.5+, JavaScript, Swift, VB, C/C++, Java, Entity Framework, Visual Studio, Visual Studio Code, XCode
 
 #### Front End
-XAML, JavaScript, AngularJS, HTML5, CSS
+AngularJS, HTML5, CSS, Bootstrap, WinForms, XAML, Silverlight, MVVM
 
 #### Back End
-ASP.Net, Web API, IIS, Node.js, Express
+ASP.Net, Web API, IIS, Node.js, Express, WCF, Windows Server AppFabric
 
 #### Databases
-SQL Server, Oracle, MongoDB
+SQL Server, MongoDB, Oracle 
 
 #### Source Control
-TFS, Git
-
----
+TFS, Git, SVN, CVS
 
 ## Education
 Towson University, Towson, MD (1996-1998)  
 Computer Science Program
 
 I am also an avid learner who devotes countless hours of personal time to staying up to date on existing technologies as well as learning new ones.  I regularly utilize resources such as [Pluralsight](http://www.pluralsight.com).
-
---- 
 
 ## RDA Corporation (June 2010 - Present)
 
@@ -252,8 +244,6 @@ The Web UI was built using a common template page approach, where a base page cl
 * Design and analysis was done using UML use cases and sequence diagrams, and requirements documentation.
 * Maintained and continued development of a legacy Access 97 bug tracking system running on a SQL Server 6.5 backend. This project was eventually replaced by the new system. 
 * Designed reports for the Web using Crystal Reports 7.0.
-
----
 
 ## References
 
