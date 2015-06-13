@@ -55,7 +55,7 @@ I am also an avid learner who devotes countless hours of personal time to stayin
 
 ### RDA Corporation (June 2010 - Present)
 
-#### DLA Piper – Apache Cordova Mobile Application
+#### DLA Piper - Apache Cordova Mobile Application
 * Developed a mobile intranet app using HTML5/Javascript, using a combination of Bootstrap 3 and AngularJS.
 * Worked with a small team of developers to help them learn AngularJS using their mobile app as an example for generally accepted best practices and coding standards for AngularJS.
 * Tested the application on a variety of different platforms, including iOS, Android and Blackberry 10, and used Cordova plugins where needed to provide specific functionality, such as geolocation and email composition.
@@ -63,7 +63,7 @@ I am also an avid learner who devotes countless hours of personal time to stayin
 * Implemented functionality to provide a paged view of the employee directory, giving access to information on the client’s 10k+ employees.
 * Communicated with a REST based API for various search features.
 
-#### Jumptuit.com – iOS Application
+#### Jumptuit.com - iOS Application
 * Developed an iOS application targeting the iPhone and iPad using the new Apple Swift language.
 * Worked with the client to advise them of recommended design decisions according to common iOS use cases as well as the Apple User Interface Guidelines.
 * Utilized a Universal storyboard to design an adaptable UI experience for all iOS devices.
@@ -127,7 +127,7 @@ I am also an avid learner who devotes countless hours of personal time to stayin
 
 ### SM Consulting (February 2007 - March 2008)
 
-#### Consultant – Constellation Energy Commodities Group
+#### Consultant - Constellation Energy Commodities Group
 * Designed and developed a process that extracts scheduled wire payments from CEG’s Settlements system and issues payment instructions to various banks.  An existing C# windows service was extended to support running this process on a daily basis at 10am.  
 * Assisted in designing and developing a Checkbook application.  A C# windows service was extended to support consuming prior day BAI files containing bank transactions from M&T and Citibank, parse the files, and store them in the Treasury database (Oracle 10g). The bank transactions are displayed in a Windows application where the users can view all activity for a particular date range by account.  Users are also able to manually enter checks and deposits, which are matched in the future when a matching transaction comes in a BAI file to show the check or deposit was processed.  In addition, the information is being sent to the CEG Settlements system in order to eliminate part of the manual process of daily reconciliation. 
 * Designed and developed new features as required for the COG Framework, which is a C# windows application used as the “portal” for many financial reports within the Commodities Group.  In addition to new features and enhancements, I also provided support to users who had questions or issues with the application, but also provided support to developers who had questions about developing within the framework. 
@@ -200,7 +200,7 @@ The Web UI was built using a common template page approach, where a base page cl
 * Added functionality to create and edit weekly timecards, forecast work for upcoming months, manages project details and staff, and modifies system parameters that define how the application works.
 * Upgraded the applets to use Java JDK 1.3.
 
-#### Internal Consultant – Revenue Pipeline
+#### Internal Consultant - Revenue Pipeline
 * An application used internally by the RDA management team.  It is a Web-based financial application used to forecast revenue based on projects in the sales pipeline.  The application was developed with SQL Server 2000, IIS 5.0, ASP, Visual Basic 6, VBScript, C# and .NET.
 * Led the effort to convert the web-based portion of the application to the new .NET framework using C#.
 * Created a .NET version of the project using the latest technologies, including (but not limited to) C#, ASP.NET and ADO.NET.
@@ -215,30 +215,30 @@ The Web UI was built using a common template page approach, where a base page cl
 * Performed routine maintenance and development.
 * Developed a security component written in Visual Basic 6 that allowed access to secured areas of the Website by checking membership in COM+ roles.
 
-#### Internal Consultant – Online Status Reports
+#### Internal Consultant - Online Status Reports
 * Development of an application that allows employees to submit information for weekly status reports via the Web using a Java applet.  This eliminated the need for employees to write status reports using Word, and also ensured that status information was entered in a uniform format.
 * Developed an interface based on Java applets using JDK version 1.1.8.
 * Created a report component that used the integrated XML capabilities of SQL Server 2000 to generate report data in XML and format it for viewing in HTML format using XSLT style sheets.
 * Developed business components that transferred data back and forth between the components and the Java applets via XML format.
 * Implemented Windows Integrated Security for the application so that the application knew who the current user was by checking their current Windows logon and used their identity for database access.
 
-#### Internal Consultant – Manual Payments
+#### Internal Consultant - Manual Payments
 * An application used internally at RDA that allows a manager to submit monetary bonuses for employees.  Once the RDA Accounting department accepted bonuses, the bonuses would be automatically entered into the payroll system to be included in the recipient’s next paycheck.
 * Developed COM+ middle tier component that used ADO to retrieve data from a SQL Server 2000 database.
 * Developed a Java applet presentation layer based on JDK 1.1.8.  The applets sent XML requests to ASP pages over the Internet, and retrieved the results in XML format as well.
 
-#### Internal Consultant – Proposal Automation
+#### Internal Consultant - Proposal Automation
 * An application used internally at RDA that allows executives and members of the sales team to track and manage proposals through a database defined workflow approval process.
 * Converted an Outlook form used by the application to an ASP Web form.  This included manually converting all VBScript code used in the Outlook form to JavaScript so that the functionality was the same in both the Outlook and Web form.
 
-#### Internal Consultant – RDA Wireless Web
+#### Internal Consultant - RDA Wireless Web
 * A prototype application used to demonstrate that static and dynamic database driven data could be viewed and manipulated from a wireless device.
 * Developed a XML/XSLT framework for delivering wireless Web content tailored for various devices (Palm, Cell Phone, etc.).  
 * Implemented a COM+ component that could verify user logon credentials against the domain.  If authenticated, the component would persist an access token that could be used to impersonate user identities for use in database access, etc.
 
 ### Absolute Quality, Inc. (April 1997 - April 2000)
 
-#### Software Engineer – Bug City
+#### Software Engineer - Bug City
 * A proprietary bug tracking application used by our company to record defects found in the computer game software as it was Beta tested.
 * Designed and developed MTS/COM server components using Visual Basic 6.0.
 * Designed and maintained a SQL Server 7.0 database.  This included proper database design, writing stored procedures to execute queries, and ensuring data validation.
